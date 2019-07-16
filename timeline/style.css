@@ -44,6 +44,7 @@ h1 {
   position: relative;
   width: 6px;
   margin: 0 auto;
+  /* margin: 20px auto; */
   padding-top: 50px;
   background: #fff;
 }
